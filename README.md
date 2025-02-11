@@ -33,7 +33,7 @@ Em ticks de clock, 2,5% de 10000 ticks = 250 ticks - que corresponde a 0 graus d
 Ajusta continuamente o ciclo ativo para que o ângulo do servo varie de 0-180 e de 180-0.
 Isto é feito incrementando/decrementando o ciclo ativo em 5 ticks de clock por ângulo.
 
-## Víde demonstrativo
+## Vídeo demonstrativo
 
 
 
